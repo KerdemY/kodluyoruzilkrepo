@@ -29,6 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için neyi değiştirmek i
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+![image](projess.png)
 
 
